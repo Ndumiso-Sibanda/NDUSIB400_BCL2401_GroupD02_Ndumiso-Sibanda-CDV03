@@ -10,7 +10,7 @@ The goal is to craft a clear, concise, and compelling resume that not only refle
 
 
 ### Link to Resume
-[Your Google Docs Resume](https://docs.google.com/document/d/1Mikfxt_Wm-jiJSk863Fgr8HHKB8OPPIPjiVitjSv0RM/edit#heading=h.7esmv0h4ay2g))
+[My Google Docs Resume](https://docs.google.com/document/d/1Mikfxt_Wm-jiJSk863Fgr8HHKB8OPPIPjiVitjSv0RM/edit#heading=h.7esmv0h4ay2g))
 
-This README provides you with a clear outline of the project objectives and submission guidelines. Remember to replace `<[(https://docs.google.com/document/d/1Mikfxt_Wm-jiJSk863Fgr8HHKB8OPPIPjiVitjSv0RM/edit#heading=h.7esmv0h4ay2g)]>` with the actual link to your Google Docs resume before submitting. The completion of this project will leave you with a polished CV, ready to be presented to potential employers in the tech industry. Good luck!
+This README provides you with a clear outline of the project objectives and submission guidelines. Remember to replace `https://docs.google.com/document/d/1Mikfxt_Wm-jiJSk863Fgr8HHKB8OPPIPjiVitjSv0RM/edit#heading=h.7esmv0h4ay2g>` with the actual link to your Google Docs resume before submitting. The completion of this project will leave you with a polished CV, ready to be presented to potential employers in the tech industry. Good luck!
 
